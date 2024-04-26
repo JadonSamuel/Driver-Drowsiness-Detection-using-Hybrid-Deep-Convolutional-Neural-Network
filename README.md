@@ -32,7 +32,9 @@ We did 50 epochs, to get a good accuracy from the model i.e. 98% for training ac
 
 ## The Output 
 1. Open Eyes<br />
+![openeyes](https://github.com/JadonSamuel/Driver-Drowsiness-Detection-using-Hybrid-Deep-Convolutional-Neural-Network/blob/main/output%20screenshots/Screenshot%202024-01-25%20184446.png)
 
 2. Close Eyes<br />
+frame count increases when both eyes are closed and when frame count reaches 10 the alarm is triggered
 ![Closedeyes](https://github.com/JadonSamuel/Driver-Drowsiness-Detection-using-Hybrid-Deep-Convolutional-Neural-Network/blob/main/output%20screenshots/Screenshot%20(7).png)
 
