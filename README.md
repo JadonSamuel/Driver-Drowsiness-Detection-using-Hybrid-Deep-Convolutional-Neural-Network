@@ -34,5 +34,5 @@ We did 50 epochs, to get a good accuracy from the model i.e. 98% for training ac
 1. Open Eyes<br />
 
 2. Close Eyes<br />
-Here we detect wheater the eyes are closed and count the number of frames for which the eyes were closed (which is 10 frame) greater then that the Alarm will ring and the WARNING sign is displayed.
+![Closedeyes](https://github.com/JadonSamuel/Driver-Drowsiness-Detection-using-Hybrid-Deep-Convolutional-Neural-Network/blob/main/output%20screenshots/Screenshot%20(7).png)
 
